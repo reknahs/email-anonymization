@@ -7,7 +7,8 @@ Issue List:
 
 1. [DONE] Anonymization for some newsletter emails takes very long (will remove links in preprocessing and reevaluate)
 3. [DONE] Labeling is relatively inaccurate (will try allowing for multiple labels)
-4. [IN PROGRESS] Json file is wrong a lot of the time (will try getting the tool_calls response + further debugging)
+4. [DONE] Json file is wrong a lot of the time (will try getting the tool_calls response + further debugging)
+5. [IN PROGRESS] tool_calls is None even for code in documentation, need to find updated code to ensure it is not None
 
 Changes:
 
