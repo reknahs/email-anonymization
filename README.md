@@ -15,8 +15,8 @@ Changes:
 2. [COMPLETE] Implement code for 1000 examples dataset
 
 Labeling Accuracies:
-Refunds - 1/1
-Cancellations - 5/5 (all were both refund and cancellation)
-Newsletters - 2/5 (other 3 were OCS)
-OCS - 4/5 (other was newsletter)
-Orders - 2/3 (other was only shipping/tracking email)
+1. Refunds - 1/1
+2. Cancellations - 5/5 (all were both refund and cancellation)
+3. Newsletters - 2/5 (other 3 were OCS)
+4. OCS - 4/5 (other was newsletter)
+5. Orders - 2/3 (other was only shipping/tracking email)
