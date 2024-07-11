@@ -14,3 +14,6 @@ Changes:
 1. [COMPLETE] Added subject in beginning of body since it might contain important info
 2. [COMPLETE] Implement code for 1000 examples dataset
 
+Notes:
+
+
