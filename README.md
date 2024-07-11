@@ -13,7 +13,7 @@ Issue List:
 Changes:
 
 1. [COMPLETE] Added subject in beginning of body since it might contain important info
-2. [COMPLETE] Implement code for 1000 examples dataset
+2. [IN PROGRESS] Implement code for 1000 examples dataset
 
 Labeling Accuracies:
 1. Refunds - 1/1
